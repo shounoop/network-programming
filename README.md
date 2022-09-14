@@ -1,6 +1,6 @@
 # **I. JDBC --> pagekage (API) of java for connect java to database**
 
-## **1. JDBC AP**
+## **1. JDBC API**
 
 ## **2. JDBC Driver Manager (gồm 4 loại): Quản lý Drivers để kết nối với database phù hợp**
 
