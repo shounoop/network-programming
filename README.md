@@ -1,4 +1,4 @@
-# **I. JDBC --> pagekage (API) of java for connect java to database**
+# **I. JDBC: Pagekage (API) of Java to connect Java to Database**
 
 ## **1. JDBC API**
 
